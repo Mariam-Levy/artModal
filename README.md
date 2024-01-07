@@ -6,7 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ## Credits ✒️
-bradtraversy - 50projects50days : https://github.com/bradtraversy/50projects50days
+freeCodeCamp.org - 15 JavaScript Projects : https://github.com/john-smilga/javascript-basic-projects/tree/master
 
 ## Preview 
 ![image](https://github.com/Mariam-Levy/artModal/assets/80288291/11b4b2f8-96e5-4224-ac10-0003bcaf7c57)
