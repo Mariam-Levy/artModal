@@ -206,7 +206,7 @@ Modal
   background: transparent;
   color: var(--clr-primary-5);
 }
-.modal-overlay {
+.modal {
   position: fixed;
   top: 0;
   left: 0;
@@ -224,7 +224,7 @@ Modal
   visibility: visible;
   z-index: 10;
 }
-.modal-container {
+.modal__container {
   background: var(--clr-white);
   border-radius: var(--radius);
   width: 90vw;
